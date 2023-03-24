@@ -1,0 +1,16 @@
+.c{
+    width: 23.45%;
+    height: 380px;
+    background-color: black;
+    border: white solid 8px;
+    color: blue;
+    float: left;
+    padding: 10px;
+}
+img{
+    width: 100%;
+    height:200px
+}
+h1{
+    text-align: centre;
+}
